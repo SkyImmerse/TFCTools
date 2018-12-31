@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/133/trunk/ImageResizer/Imager
+END
+sPixel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/132/trunk/ImageResizer/Imager/sPixel.cs
+END
+cImage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/131/trunk/ImageResizer/Imager/cImage.cs
+END
+Image.Resizer.Xbrz.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/132/trunk/ImageResizer/Imager/Image.Resizer.Xbrz.cs
+END
+Image.Resizer.Nx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/131/trunk/ImageResizer/Imager/Image.Resizer.Nx.cs
+END
+Image.Resizer.Interpolation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130/trunk/ImageResizer/Imager/Image.Resizer.Interpolation.cs
+END
+Image.Resizer.Parameterless.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/132/trunk/ImageResizer/Imager/Image.Resizer.Parameterless.cs
+END
+Image.Resizer.Resample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130/trunk/ImageResizer/Imager/Image.Resizer.Resample.cs
+END
+PixelWorker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/132/trunk/ImageResizer/Imager/PixelWorker.cs
+END
+Image.Resizer.Loop.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/131/trunk/ImageResizer/Imager/Image.Resizer.Loop.cs
+END
+PixelWorker.tt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/132/trunk/ImageResizer/Imager/PixelWorker.tt
+END
+Image.Resizer.Xbr.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/131/trunk/ImageResizer/Imager/Image.Resizer.Xbr.cs
+END
+Image.Resizer.Loop.tt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/131/trunk/ImageResizer/Imager/Image.Resizer.Loop.tt
+END
+Image.Bitmaps.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/130/trunk/ImageResizer/Imager/Image.Bitmaps.cs
+END
+cRGBCache.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/130/trunk/ImageResizer/Imager/cRGBCache.cs
+END

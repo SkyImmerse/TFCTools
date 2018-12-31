@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/132/trunk/ImageResizer/Classes/ImageManipulators/Scalers
+END
+XbrScaler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130/trunk/ImageResizer/Classes/ImageManipulators/Scalers/XbrScaler.cs
+END
+NqScaler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/130/trunk/ImageResizer/Classes/ImageManipulators/Scalers/NqScaler.cs
+END
+PixelScaler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/130/trunk/ImageResizer/Classes/ImageManipulators/Scalers/PixelScaler.cs
+END
+XbrzScaler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/132/trunk/ImageResizer/Classes/ImageManipulators/Scalers/XbrzScaler.cs
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/132/trunk/ImageResizer/Imager/Interface
+END
+XbrScalerType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130/trunk/ImageResizer/Imager/Interface/XbrScalerType.cs
+END
+NqScalerType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130/trunk/ImageResizer/Imager/Interface/NqScalerType.cs
+END
+OutOfBoundsMode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/131/trunk/ImageResizer/Imager/Interface/OutOfBoundsMode.cs
+END
+PixelScalerType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/132/trunk/ImageResizer/Imager/Interface/PixelScalerType.cs
+END
+ScalerInformation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130/trunk/ImageResizer/Imager/Interface/ScalerInformation.cs
+END
+XbrzScalerType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/132/trunk/ImageResizer/Imager/Interface/XbrzScalerType.cs
+END
+NqMode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/130/trunk/ImageResizer/Imager/Interface/NqMode.cs
+END
