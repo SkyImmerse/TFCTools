@@ -3,5 +3,6 @@ The  Forgotten Client Tools
 Tools for edit client
 
 *** 
-Public repository, release soon.
+Visual Studio 2017 required in order to compile toolset.
+Initial release.
 *** 
